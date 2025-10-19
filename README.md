@@ -70,31 +70,10 @@
 
 ---
 
-## 📌 Featured Projects
 
-<table align="center>
-  <tr>
-    <td width="50%">
-      <h3 align="center">SMART CITY MANAGEMENT</h3>
-      <p align="center">
-        <a href="https://github.com/prasanta-123/SmartCity-Project" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p align="center">A Smart City Management Platform helps citizens and administrators manage and access services like Education, Women Safety, Healthcare, Tourism, and Traffic in one place.</p>
-    </td>
-  </tr>
-</table>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasanta-123&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanta-123&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -105,9 +84,9 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href=https://www.linkedin.com/in/prasanta-mallik-a3825b319><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href= prasantamallik195@gmail.com><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
-  <a href=https://github.com/prasanta-123><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
+  <a href=https://www.linkedin.com/in/pallabi-pattanayak-a06a6431a><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href= pallabipattanayak48@gmail.com><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
+  <a href=https://github.com/pallabi-pattanayak><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
 </p>
 
 
